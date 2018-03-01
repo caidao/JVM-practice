@@ -32,6 +32,8 @@ public class ParallelTest {
         .entrySet().forEach(System.out::println);
         System.out.println("thread size:"+threadSet.size());
 
+
+
     }
 
     public int twoDiceThrows(){
